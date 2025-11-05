@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58719256711",
+    "project_id": "unienrollnew",
+    "storage_bucket": "unienrollnew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58719256711:android:d558108c3d9f38f9a3b822",
+        "android_client_info": {
+          "package_name": "com.example.unienroll_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0aozQolIKtz106PqbFH1m0zNZuYHdPgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58719256711:android:a2c0b9e5ae492785a3b822",
+        "android_client_info": {
+          "package_name": "com.example.unienroll_student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0aozQolIKtz106PqbFH1m0zNZuYHdPgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
